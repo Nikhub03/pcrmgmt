@@ -1,0 +1,13 @@
+# Конфигурация pcrmgmt
+thresholds:
+  cpu_temp: 80    # °C
+  ram_usage: 90   # %
+  disk_usage: 95  # %
+
+printer:
+  name: "HP_LaserJet_1020"
+  timeout: 30     # секунд
+
+monitor:
+  default_interval: 2.0
+  min_interval: 0.5

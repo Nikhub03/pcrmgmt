@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+app.log
+print_output.txt
+report.html
+report.json
+.coverage
+htmlcov/
